@@ -1,3 +1,5 @@
 <?php
-    $variable;
+    //$variable;
 ?>
+
+<p>test page</p>
